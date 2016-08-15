@@ -1,0 +1,4 @@
+main controller is disconnected!
+main controller is disconnected!
+Field :WATTHR,12130,12217,12207,
+ from device :6577 was not recieved!
